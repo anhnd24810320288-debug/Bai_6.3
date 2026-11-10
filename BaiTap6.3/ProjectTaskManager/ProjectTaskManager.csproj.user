@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="GUI\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FrmPhanCong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\UcBaoCao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\UcCongViec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\UcDuAn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="GUI\UcThanhVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
